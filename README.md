@@ -1,6 +1,6 @@
 # Virgin Client Versions
 
-A visual evolution of Virgin Client through its major releases.
+Virgin Client Free Releases.
 
 ---
 
@@ -25,5 +25,4 @@ A visual evolution of Virgin Client through its major releases.
 ---
 
 ### Notes
-Each version represents a major step forward in design, performance, and user experience.  
-Stay tuned for future releases.
+Each versions can be downloaded in the releases tab.
